@@ -1,0 +1,4 @@
+[submodule "doc/core_f411"]
+	path = doc/core_f411
+	url = https://github.com/WeActStudio/WeActStudio.MiniSTM32F4x1.git
+	branch = master
